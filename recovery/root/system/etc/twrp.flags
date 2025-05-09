@@ -11,4 +11,4 @@
 /optics			emmc	/dev/block/platform/bootdevice/by-name/optics		flags=backup=1;flashimg;display="Optics"
 /prism			emmc	/dev/block/platform/bootdevice/by-name/prism		flags=backup=1;flashimg;display="Prism"
 
-/external_sd	auto	/dev/block/mmcblk1p1	/dev/block/mmcblk1	       flags=storage;wipeingui;removable;display="External SDcard"
+/external_sd	auto	/dev/block/mmcblk1p1	/dev/block/mmcblk1	              flags=storage;wipeingui;removable;display="External SDcard"
